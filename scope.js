@@ -8,5 +8,17 @@ if (true) {
  const b = 40
 console.log(a);
 console.log(b);
-// console.log(c);
+console.log(c);
 // therefore var is not used because of the accessibility in the code
+
+function one(){
+     const username ="anshum"
+
+   function two(){
+    const player = 10
+    console.log(username)
+
+   }
+   console.log(player);   
+}
+one()
