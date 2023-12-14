@@ -4,6 +4,8 @@ if (true) {
     const c = 50
     console.log("inner:",c);
 }
+
+// LET>. VAR
  var a = 39;
  const b = 40
 console.log(a);
