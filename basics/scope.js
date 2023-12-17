@@ -11,6 +11,8 @@ if (true) {
 console.log(a);
 console.log(b);
 console.log(c);
+
+
 // therefore var is not used because of the accessibility in the code
 
 function one(){
