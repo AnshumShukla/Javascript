@@ -8,4 +8,4 @@ const promiseone = new Promise (function(resolve,reject){
   
 promiseone.then(function(){
  console.log("promise is consumed");
-})
+}) 
