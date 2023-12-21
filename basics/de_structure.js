@@ -3,6 +3,9 @@ const course ={
     price :999,
     teacher :"hitesh"
 
+
+
+    
 }
 console.log(course.teacher);
 const {name} =course
