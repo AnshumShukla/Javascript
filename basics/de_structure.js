@@ -1,6 +1,6 @@
 const course ={
     name : "React",
-    price :999,
+    price :9999,
     teacher :"hitesh"
 
 
