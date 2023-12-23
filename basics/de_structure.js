@@ -1,7 +1,7 @@
 const course ={
     name : "React",
     price :9999,
-    teacher :"hitesh"
+    teacher :"kunal kushwaha"
 
 
 
