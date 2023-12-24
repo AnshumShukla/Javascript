@@ -14,6 +14,4 @@ console.log(name);
 // json example1
 {
 
-
-
 }
