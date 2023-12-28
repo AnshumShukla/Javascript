@@ -4,4 +4,5 @@
   const gamename = new String('ansh')
  console.log(gamename.toUpperCase());
  const school = new String("     abesit college of engineering")
+ 
 console.log(`the length of the string is ${school.trimStart()}`);
