@@ -5,6 +5,7 @@ const sym = Symbol("key1")
 const sym2 = Symbol("key2")
 const user = {
     name : "anshum",
+    
     sym : "kaka",
     age : 20, 
     [sym2]: "kaka1",
