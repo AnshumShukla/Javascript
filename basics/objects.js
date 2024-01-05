@@ -16,6 +16,5 @@ console.log( typeof user.sym);
 console.log( typeof user.sym2);
  user.fun = function () {
     console.log(`hello MR. , ${this.name}`);
-    
  }
  console.log(user.fun());
